@@ -1,0 +1,37 @@
+p {
+    font-family: Arial;
+    color: rgb(88, 88, 88);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.email {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 400px;
+    border-style: solid;
+    margin-bottom: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    border-color: rgb(72, 72, 72);
+}
+
+.by-click {
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+
+.agree-and-join {
+    width: 400px;
+    color: white;
+    font-size: 16px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    background-color: rgb(14, 83, 186);
+    border: none;
+    border-radius: 23px;
+}
