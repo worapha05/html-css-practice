@@ -1,0 +1,31 @@
+input {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: rgb(170, 170, 170);
+    margin-bottom: 10px;
+}
+
+.first-name {
+    width: 80px;
+}
+
+.email {
+    width: 180px;
+    display: block;
+}
+
+button {
+    border: none;
+    background-color: rgb(54, 116, 240);
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 195px;
+    border-radius: 5px;
+    border-width: 1px;
+    color: white;
+    font-weight: bold;
+}
